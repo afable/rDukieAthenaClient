@@ -37,8 +37,3 @@ USERKEY_1 = {
 	[35] = { EXE = "Hotkey 4-9", KEY1 = 190 },
 }
 
-USERKEY_2 = {
-	[8] = { EXE = "World Map", KEY1 = 77, KEY2 = 18 },
-	[14] = { EXE = "Shortcuts List" },
-}
-
