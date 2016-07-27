@@ -56177,7 +56177,7 @@ tbl = {
 		identifiedResourceName = "ÆÛ¾Á¸ðÀÚ",
 		identifiedDescriptionName = {
 			"Very warm hat which a monster 'Fur Seal' is wearing.",
-			"DEX +5, INT +5, Vit +10",
+			"DEX +5, INT +6, Vit +10",
 			"AGI +10, LUK +20",
 			"MDEF +10",
 			"Small chance of casting Frost Nova when attacking.",
