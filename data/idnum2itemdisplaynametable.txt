@@ -2549,6 +2549,7 @@
 5549#Taurus Diadem#
 5550#Taurus Crown#
 5555#Leaf Cat Hat#
+5556#Seal Hat#
 5560#Horned Helm#
 5561#Rabbit Magic Hat#
 5562#Love of Truth#

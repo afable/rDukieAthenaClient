@@ -46623,7 +46623,7 @@ tbl = {
 		ClassNum = 98
 	},
 	[5013] = {
-		unidentifiedDisplayName = "Accessory",
+		unidentifiedDisplayName = "Horn",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
@@ -56163,6 +56163,33 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 539
+	},
+	[5556] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "ÆÛ¾Á¸ðÀÚ",
+		unidentifiedDescriptionName = {
+			"Very warm and fuzzy hat that kind of looks like a seal.",
+			"Class: ^777777Headgear^000000",
+			"Location: ^777777Upper, Mid, Lower^000000",
+			"Weight: ^77777750^000000",
+		},
+		identifiedDisplayName = "Seal Hat",
+		identifiedResourceName = "ÆÛ¾Á¸ðÀÚ",
+		identifiedDescriptionName = {
+			"Very warm hat which a monster 'Fur Seal' is wearing.",
+			"DEX +5, INT +5, Vit +10",
+			"AGI +10, LUK +20",
+			"MDEF +10",
+			"Small chance of casting Frost Nova when attacking.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777773^000000",
+			"Location: ^777777Upper, Mid, Lower^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^77777755^000000",
+			"Jobs: ^777777All^000000",
+		},
+		slotCount = 1,
+		ClassNum = 540
 	},
 	[5560] = {
 		unidentifiedDisplayName = "Headgear",

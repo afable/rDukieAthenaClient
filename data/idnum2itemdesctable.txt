@@ -24248,6 +24248,16 @@ Weight: ^0EAA0B10^000000
 Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
+5556#
+Very warm hat which a monster 'Fur Seal' is wearing.
+INT + 1, Small chance of casting Frost Nova when attacking.
+Class :^777777 Headgear^000000
+Equipped on :^777777 Upper, Mid, Lower^000000
+Defense :^777777 3^000000
+Weight :^777777 50^000000
+Required Level :^777777 55^000000
+Applicable Job :^777777 Every Job^000000
+#
 5560#
 placeholder
 Defense: ^0000FF0^000000
