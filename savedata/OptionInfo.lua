@@ -1,5 +1,5 @@
 CmdOnOffList["/notrade"] = 0
-CmdOnOffList["/noshift"] = 0
+CmdOnOffList["/noshift"] = 1
 CmdOnOffList["/noctrl"] = 1
 CmdOnOffList["/skillfail"] = 1
 CmdOnOffList["/notalkmsg"] = 0
@@ -37,7 +37,7 @@ OptionInfoList["AutoOpen1to1Window"] = 1
 OptionInfoList["AutoOpen1to1Window_Friend"] = 1
 OptionInfoList["PlaySound_Open1to1Window"] = 1
 OptionInfoList["Outdoor_ViewLatitude"] = -40.500000
-OptionInfoList["Outdoor_ViewDistance"] = 302.800049
+OptionInfoList["Outdoor_ViewDistance"] = 254.200058
 OptionInfoList["Indoor_ViewLatitude"] = -55.000000
 OptionInfoList["Indoor_ViewDistance"] = 300.000000
 OptionInfoList["SkinName"] = "<Basic Skin>"
