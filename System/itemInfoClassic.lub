@@ -15850,7 +15850,7 @@ tbl = {
 			"Required Level: ^77777727^000000",
 			"Jobs: ^777777Acolyte Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 65
 	},
 	[1523] = {
@@ -15872,7 +15872,7 @@ tbl = {
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Acolyte Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1524] = {
@@ -15916,7 +15916,7 @@ tbl = {
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Acolyte Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1526] = {
@@ -15940,7 +15940,7 @@ tbl = {
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Acolyte Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1527] = {
@@ -15985,7 +15985,7 @@ tbl = {
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Acolyte Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1529] = {
@@ -16005,7 +16005,7 @@ tbl = {
 			"Required Level: ^77777778^000000",
 			"Jobs: ^777777Priest and Monk Jobs^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 67
 	},
 	[1530] = {
@@ -16029,7 +16029,7 @@ tbl = {
 			"Required Level: ^77777795^000000",
 			"Jobs: ^777777Swordman and Merchant Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1531] = {
@@ -16337,7 +16337,7 @@ tbl = {
 			"Required Level: ^77777780^000000",
 			"Jobs: ^777777Novice, Swordman, Merchant, Acolyte^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1544] = {
@@ -16360,7 +16360,7 @@ tbl = {
 			"Required Level: ^77777750^000000",
 			"Jobs: ^777777Transcendent Acolyte Class^000000",
 		},
-		slotCount = 3,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1545] = {
@@ -16454,7 +16454,7 @@ tbl = {
 			"Required Level: ^77777780^000000",
 			"Job : ^777777Acolyte Class^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 8
 	},
 	[1550] = {
