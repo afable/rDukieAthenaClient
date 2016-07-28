@@ -22003,7 +22003,7 @@ tbl = {
 			"Jobs: ^777777Priest and",
 			"Monk Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 23
 	},
 	[2002] = {
