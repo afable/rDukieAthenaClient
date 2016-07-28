@@ -17865,7 +17865,7 @@ tbl = {
 			"Required Level: ^77777750^000000",
 			"Jobs: ^777777Mage, Acolyte, Soul Linker^000000",
 		},
-		slotCount = 1,
+		slotCount = 4,
 		ClassNum = 10
 	},
 	[1630] = {
@@ -18022,7 +18022,7 @@ tbl = {
 			"Required Level: ^77777775^000000",
 			"Jobs: ^777777Transcendent Mage, Acolyte^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 72
 	},
 	[1637] = {
@@ -18044,7 +18044,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Transcendent Wizard / Acolyte Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 10
 	},
 	[1638] = {
@@ -18134,7 +18134,7 @@ tbl = {
 			"Required Level: ^77777780^000000",
 			"Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 10
 	},
 	[1642] = {
@@ -18175,7 +18175,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 10
 	},
 	[1644] = {
