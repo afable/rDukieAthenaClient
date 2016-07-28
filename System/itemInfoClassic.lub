@@ -10043,7 +10043,7 @@ tbl = {
 			"Required Level: ^77777748^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1162] = {
@@ -10107,7 +10107,7 @@ tbl = {
 			"Required Level: ^77777748^000000",
 			"Jobs: ^777777Swordman Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1165] = {
@@ -10130,7 +10130,7 @@ tbl = {
 			"Required Level: ^77777748^000000",
 			"Jobs: ^777777Swordman Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1166] = {
@@ -10175,7 +10175,7 @@ tbl = {
 			"Required Level: ^77777748^000000",
 			"Jobs: ^777777Swordman Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1168] = {
@@ -10232,7 +10232,7 @@ tbl = {
 		identifiedResourceName = "Ä«Ã÷¹ß°Ô¸£",
 		identifiedDescriptionName = {
 			"A sword with a unique, ''S'' shaped hilt.",
-			"VIT +5 , DEF + 10",
+			"DEF + 17",
 			"Class: ^777777Two-Handed Sword^000000",
 			"Attack: ^777777175^000000",
 			"Weight: ^777777200^000000",
@@ -10240,7 +10240,7 @@ tbl = {
 			"Required Level: ^77777748^000000",
 			"Jobs: ^777777Swordman Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1171] = {
@@ -10518,7 +10518,7 @@ tbl = {
 			"Required Level: ^77777790^000000",
 			"Jobs: ^777777Transcendent Swordman only^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1182] = {
@@ -10541,7 +10541,7 @@ tbl = {
 			"Required Level: ^77777780^000000",
 			"Jobs: ^777777Transcendent Swordman Class^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1183] = {
@@ -10611,7 +10611,7 @@ tbl = {
 			"Required Level: ^77777780^000000",
 			"Jobs: ^777777Transcendent Swordman Class^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 51
 	},
 	[1186] = {
@@ -10636,7 +10636,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Transcendent Swordman Class^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1187] = {
@@ -10685,7 +10685,7 @@ tbl = {
 			"Required Level: ^77777780^000000",
 			"Job : ^777777Swordman Class Only^000000",
 		},
-		slotCount = 1,
+		slotCount = 4,
 		ClassNum = 3
 	},
 	[1189] = {
