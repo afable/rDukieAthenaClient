@@ -16019,15 +16019,14 @@ tbl = {
 		identifiedDescriptionName = {
 			"A facsimile of the mighty hammer wielded by Thor, god of thunder.",
 			"Increases Attack Speed.",
-			"DEX +50",
-			"STR +20",
+			"DEX +40, STR +15",
 			"Class: ^777777Mace^000000",
 			"Property:^777777Wind^000000",
-			"Attack: ^777777350^000000",
+			"Attack: ^777777250^000000",
 			"Weight: ^777777600^000000",
 			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777795^000000",
-			"Jobs: ^777777Swordman and Merchant Classes^000000",
+			"Jobs: ^777777Swordman, Acolyte, and Merchant Classes^000000",
 		},
 		slotCount = 4,
 		ClassNum = 8
