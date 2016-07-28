@@ -49076,8 +49076,9 @@ tbl = {
 		identifiedDescriptionName = {
 			"A circlet blessed by ",
 			"Freyja, mother of Baldur.",
+			"STR +7, DEX +5, AGI +10",
+			"VIT +10, LUK +20",
 			"MDEF +10",
-			"INT +2",
 			"MaxSP +50 ",
 			"^99FF66Frigg's Set^000000",
 			"^00FF00Fricca's Circlet^000000",
@@ -49097,7 +49098,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 251
 	},
 	[5125] = {
@@ -56177,7 +56178,7 @@ tbl = {
 		identifiedResourceName = "ÆÛ¾Á¸ðÀÚ",
 		identifiedDescriptionName = {
 			"Very warm hat which a monster 'Fur Seal' is wearing.",
-			"DEX +5, INT +6, Vit +10",
+			"INT +6, DEX +5, VIT +10",
 			"AGI +10, LUK +20",
 			"MDEF +10",
 			"Small chance of casting Frost Nova when attacking.",
