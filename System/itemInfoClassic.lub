@@ -16688,7 +16688,7 @@ tbl = {
 			"Required Level: ^77777760^000000",
 			"Jobs: ^777777Priest, Sage, and Taekwon Master^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 15
 	},
 	[1561] = {
@@ -16991,7 +16991,7 @@ tbl = {
 			"Required Level: ^77777760^000000",
 			"Jobs: ^777777Priest, Sage, Taekwon Master^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 15
 	},
 	[1573] = {
@@ -17017,7 +17017,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Priest, Sage, Taekwon Master^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 15
 	},
 	[1574] = {
@@ -17176,9 +17176,9 @@ tbl = {
 			"^000088Rental Items^000000",
 			"A gigantic encyclopedia produced by X company in Prontera, known mostly for its sharp and hard edges.",
 			"It is so hard to the point that people who got hit by the edges of this book often ask \"Did you guys install 3 carat Diamond on this?\".",
-			"INT +3, DEX +2",
-			"MATK +100",
-			"Critical rate +20",
+			"MATK +15%.",
+			"INT +3, DEX +2.",
+			"Critical rate +20.",
 			"CRI bonus increases according to the wearer's LUK.",
 			"Increases damage against small, medium, large size monsters by 40%.",
 			"Class: ^777777Book^000000",
@@ -17188,7 +17188,7 @@ tbl = {
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777Priest, Sage and Star Gladiator^000000"
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 15
 	},
 	[1581] = {
@@ -20112,7 +20112,7 @@ tbl = {
 			"Required Level: ^77777736^000000",
 			"Jobs: ^777777Priest and Monk Jobs^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 85
 	},
 	[1815] = {
@@ -31579,7 +31579,7 @@ tbl = {
 			"Required Level: ^77777780^000000",
 			"Jobs: ^777777Mage Jobs/Soul Linker^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2718] = {
