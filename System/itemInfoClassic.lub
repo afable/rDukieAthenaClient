@@ -15908,7 +15908,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"A long, thin mace built like a spear.",
 			"Capable of damaging enemies up to 3 cells away from its owner.",
-			"10% additional tolerance against long range attack.",
+			"Each upgrade gives +3% additional tolerance against long range attacks.",
+			"Each upgrade gives ASPD.",
 			"Class: ^777777Mace^000000",
 			"Attack: ^777777135^000000",
 			"Weight: ^77777780^000000",
