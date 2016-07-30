@@ -1,0 +1,10 @@
+// colour scheme definitions for itemInfoClassic.lub
+
+// positive stats:
+	// base stat: #00ff00
+	// secondary stat: #00aaff
+	// skill: #ffaa33
+	// set items: #ccaaff
+
+// negative stats:
+	// all negative stats: #cc0000
