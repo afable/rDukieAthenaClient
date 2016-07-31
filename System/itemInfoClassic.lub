@@ -15913,9 +15913,6 @@ tbl = {
 			" ",
 			"Capable of ^00aaffdamaging enemies up to 3 cells away^000000 from its owner.",
 			"Each refine gives ^00aaff+3% additional tolerance against long range attacks^000000.",
-			"Each refine gives ^00aaffASPD+1^000000.",
-			"Reduces the ^00aaffskill usage",
-			"delay by 15%^000000.",
 			" ",
 			"Class: ^777777Mace^000000",
 			"Attack: ^777777135^000000",
@@ -16502,7 +16499,7 @@ tbl = {
 			"Required Level: ^77777727^000000",
 			"Jobs: ^777777Priest, Sage, Taekwon Master^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 89
 	},
 	[1552] = {
@@ -16543,7 +16540,7 @@ tbl = {
 			"Required Level: ^77777727^000000",
 			"Jobs: ^777777Priest, Sage, and Taekwon Master^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 90
 	},
 	[1554] = {
@@ -16564,7 +16561,7 @@ tbl = {
 			"Required Level: ^77777727^000000",
 			"Jobs: ^777777Priest, Sage, and Taekwon Master^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 91
 	},
 	[1555] = {
@@ -16585,7 +16582,7 @@ tbl = {
 			"Required Level: ^77777727^000000",
 			"Jobs: ^777777Priest, Sage, and Taekwon Master^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 92
 	},
 	[1556] = {
@@ -16606,7 +16603,7 @@ tbl = {
 			"Required Level: ^77777727^000000",
 			"Jobs: ^777777Priest, Sage, and Taekwon Master^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 93
 	},
 	[1557] = {
@@ -16642,15 +16639,20 @@ tbl = {
 		identifiedResourceName = "소녀의일기장",
 		identifiedDescriptionName = {
 			"A cute diary in which the innermost thoughts of a young girl have been recorded, but you can never bear to open it.",
-			"Increases damage on Bongun monster by 150%.",
+			" ",
+			"Capable of ^00aaffdamaging enemies up to 4 cells away^000000 (books normally have 3 range).",
+			"Each refine gives ^00aaffASPD+2^000000.",
+			"Each refine reduces the",
+			"^00aaffskill usage delay by 5%^000000.",
+			" ",
 			"Class: ^777777Book^000000",
-			"Attack: ^77777760^000000",
+			"Attack: ^7777771^000000",
 			"Weight: ^77777730^000000",
 			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Priest, Sage, and Taekwon Master^000000",
 		},
-		slotCount = 1,
+		slotCount = 4,
 		ClassNum = 95
 	},
 	[1559] = {
@@ -16780,11 +16782,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An encyclopedia distributed by a Prontera publisher that is famous for using solid binding in their books.",
 			"Those struck by this book will swear the binding is diamond hard.",
-			"Matk +15%",
-			"INT +3",
-			"DEX +2",
-			"Crit +20",
-			"CRI bonus increases according to the wearer's LUK.",
+			" ",
+			"^00aaffMATK+15%^000000, ^00ff00INT+3^000000, ^00ff00DEX+2^000000.",
+			"^00aaffCRIT+20^000000.",
+			"^00aaffCRIT^000000 bonus increases according to the wearer's ^00ff00LUK^000000.",
+			" ",
 			"Class: ^777777Book^000000",
 			"ATK: ^777777110^000000",
 			"Weight: ^777777200^000000",
@@ -16794,7 +16796,7 @@ tbl = {
 			"Sage Classes;",
 			"Taekwon Master Job^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 15
 	},
 	[1565] = {
@@ -16825,7 +16827,7 @@ tbl = {
 			"Sage Classes;",
 			"Taekwon Master Job^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 15
 	},
 	[1566] = {
