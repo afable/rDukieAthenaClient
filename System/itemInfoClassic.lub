@@ -15910,9 +15910,13 @@ tbl = {
 		identifiedResourceName = "롱메이스",
 		identifiedDescriptionName = {
 			"A long, thin mace built like a spear.",
-			"Capable of damaging enemies up to 3 cells away from its owner.",
-			"Each upgrade gives +3% additional tolerance against long range attacks.",
-			"Each upgrade gives ASPD.",
+			" ",
+			"Capable of ^00aaffdamaging enemies up to 3 cells away^000000 from its owner.",
+			"Each refine gives ^00aaff+3% additional tolerance against long range attacks^000000.",
+			"Each refine gives ^00aaffASPD+1^000000.",
+			"Reduces the ^00aaffskill usage",
+			"delay by 15%^000000.",
+			" ",
 			"Class: ^777777Mace^000000",
 			"Attack: ^777777135^000000",
 			"Weight: ^77777780^000000",
@@ -35810,7 +35814,7 @@ tbl = {
 		unidentifiedDisplayName = "Eddga Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"MaxHP -25%",
+			"MaxHP +12%",
 			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Footgear^000000",
@@ -35819,7 +35823,7 @@ tbl = {
 		identifiedDisplayName = "Eddga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"MaxHP -25%",
+			"MaxHP +12%",
 			"Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Footgear^000000",
@@ -35989,6 +35993,7 @@ tbl = {
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"Enable faster Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+			"DEX+5. MaxHP+25%.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Footgear^000000",
 			"Weight: ^7777771^000000"
@@ -35997,6 +36002,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enable faster Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+			"DEX+5. MaxHP+25%.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Footgear^000000",
 			"Weight: ^7777771^000000"
@@ -36114,7 +36120,7 @@ tbl = {
 		unidentifiedDisplayName = "Drake Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Nullify reduction in damage inflicted on monsters resulting from monster's size.",
+			"Perfect damage on any size monster. Enables the use of ^ffaa33[Water Ball] lvl 4^000000.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -36122,7 +36128,7 @@ tbl = {
 		identifiedDisplayName = "Drake Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Nullify reduction in damage inflicted on monsters resulting from monster's size.",
+			"Perfect damage on any size monster. Enables the use of ^ffaa33[Water Ball] lvl 4^000000.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -36223,7 +36229,7 @@ tbl = {
 		unidentifiedDisplayName = "Doppelganger Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
+			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped (^00aaffASPD+25%^000000).",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -36231,7 +36237,7 @@ tbl = {
 		identifiedDisplayName = "Doppelganger Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
+			"Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped (^00aaffASPD+25%^000000).",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -36267,7 +36273,8 @@ tbl = {
 		unidentifiedDisplayName = "Osiris Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Enable full HP and SP restoration when resurrected.",
+			"Enable ^00aafffull HP and SP restoration^000000 when resurrected.",
+			"Enables the use of ^ffaa33[Increase Agility] lvl 10^000000.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Accessory^000000",
 			"Weight: ^7777771^000000"
@@ -36275,7 +36282,8 @@ tbl = {
 		identifiedDisplayName = "Osiris Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Enable full HP and SP restoration when resurrected.",
+			"Enable ^00aafffull HP and SP restoration^000000 when resurrected.",
+			"Enables the use of ^ffaa33[Increase Agility] lvl 10^000000.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Accessory^000000",
 			"Weight: ^7777771^000000"
@@ -36374,17 +36382,17 @@ tbl = {
 		unidentifiedDisplayName = "Gargoyle Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Add the chance of gaining ^008800Box of Thunder^000000 each time an Insect monster is killed.",
+			"DEX+5.",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Accessory^000000",
+			"Compound on: ^777777Footgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Gargoyle Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Add the chance of gaining ^008800Box of Thunder^000000 each time an Insect monster is killed.",
+			"DEX+5.",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Accessory^000000",
+			"Compound on: ^777777Footgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -37993,7 +38001,7 @@ tbl = {
 		unidentifiedDisplayName = "Mysteltainn Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"DEF +1",
+			"DEF+1, FLEE+20, ATK+30.",
 			"Receive 25% less damage from small size monsters.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Shield^000000",
@@ -38002,7 +38010,7 @@ tbl = {
 		identifiedDisplayName = "Mysteltainn Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"DEF +1",
+			"DEF+1, FLEE+20, ATK+30.",
 			"Receive 25% less damage from small size monsters.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Shield^000000",
@@ -38576,17 +38584,17 @@ tbl = {
 		unidentifiedDisplayName = "Stem Worm Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Add the chance of gaining ^008800Box of Storms^000000 each time a Brute monster is killed.",
+			"DEX+5.",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Accessory^000000",
+			"Compound on: ^777777Garment^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Stem Worm Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Add the chance of gaining ^008800Box of Storms^000000 each time a Brute monster is killed.",
+			"DEX+5.",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Accessory^000000",
+			"Compound on: ^777777Garment^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -38620,17 +38628,17 @@ tbl = {
 		unidentifiedDisplayName = "Sting Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"DEF +2 and MDEF +5 if the shield is upgraded up to +9 or higher.",
+			"DEX+4.",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Shield^000000",
+			"Compound on: ^777777Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Sting Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"DEF +2 and MDEF +5 if the shield is upgraded up to +9 or higher.",
+			"DEX+4.",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Shield^000000",
+			"Compound on: ^777777Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -39490,7 +39498,7 @@ tbl = {
 		unidentifiedDisplayName = "Alligator Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Receive 5% less damage from Long Ranged Physical Attack.",
+			"CRIT+12.",
 			"^FFFFFF_^000000",
 			"^6A5ACDHunter Card Set^000000",
 			"^3CB371Cruiser Card^000000",
@@ -39532,7 +39540,7 @@ tbl = {
 		identifiedDisplayName = "Alligator Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Receive 5% less damage from Long Ranged Physical Attack.",
+			"CRIT+12.",
 			"^FFFFFF_^000000",
 			"^6A5ACDHunter Card Set^000000",
 			"^3CB371Cruiser Card^000000",
@@ -39943,9 +39951,10 @@ tbl = {
 		unidentifiedDisplayName = "Incantation Samurai Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Ignore normal monster's defense when attacking.",
-			"Disable its user's natural HP recovery and drain 666 HP every 10 seconds.",
-			"Drain 999 HP as the weapon is unequipped.",
+			"Ignore all non-boss, non-guardian monster's defense when attacking.",
+			"ATK+65.",
+			"Disable its user's natural HP recovery.",
+			"Drain 666,666 HP as the weapon is unequipped.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -39953,9 +39962,10 @@ tbl = {
 		identifiedDisplayName = "Incantation Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Ignore normal monster's defense when attacking.",
-			"Disable its user's natural HP recovery and drain 666 HP every 10 seconds.",
-			"Drain 999 HP as the weapon is unequipped.",
+			"Ignore all non-boss, non-guardian monster's defense when attacking.",
+			"ATK+65.",
+			"Disable its user's natural HP recovery.",
+			"Drain 666,666 HP as the weapon is unequipped.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -41244,7 +41254,8 @@ tbl = {
 		unidentifiedDisplayName = "Toad Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Perfect Dodge +1",
+			"Perfect Dodge +1.",
+			"+1 Perfect Dodge per 8 base LUK.",
 			"If the user is equipped with an item compounded to the ^008800Roda Frog Card^000000, it adds Flee +18.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Garment^000000",
@@ -41253,7 +41264,8 @@ tbl = {
 		identifiedDisplayName = "Toad Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Perfect Dodge +1",
+			"Perfect Dodge +1.",
+			"+1 Perfect Dodge per 8 base LUK.",
 			"If the user is equipped with an item compounded to the ^008800Roda Frog Card^000000, it adds Flee +18.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Garment^000000",
@@ -41803,7 +41815,8 @@ tbl = {
 		unidentifiedDisplayName = "Bloody Knight Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Add the chance of casting ^008800Level 1 Meteor Storm^000000 on an enemy when doing Physical Attack.",
+			"Add the chance of casting ^ffaa33Level 1 Meteor Storm^000000 on an enemy when doing Physical Attack.",
+			"ATK+30.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -41811,7 +41824,8 @@ tbl = {
 		identifiedDisplayName = "Bloody Knight Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Add the chance of casting ^008800Level 1 Meteor Storm^000000 on an enemy when doing Physical Attack.",
+			"Add the chance of casting ^ffaa33Level 1 Meteor Storm^000000 on an enemy when doing Physical Attack.",
+			"ATK+30.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -42884,18 +42898,19 @@ tbl = {
 		unidentifiedDisplayName = "Boss Egnigem Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"MaxHP +10%",
-			"MaxSP +10%",
-			"Restores 50 HP and 10 SP every 10 seconds",
+			"MaxHP +20%",
+			"MaxSP +20%",
+			"Restores 100 HP and 100 SP every 10 seconds",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Footgear^000000"
+			"Compound on: ^777777Footgear^000000",
+			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Boss Egnigem Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"MaxHP +10%",
-			"MaxSP +10%",
-			"Restores 50 HP and 10 SP every 10 seconds",
+			"MaxHP +20%",
+			"MaxSP +20%",
+			"Restores 100 HP and 100 SP every 10 seconds",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Footgear^000000",
 			"Weight: ^7777771^000000"
@@ -43183,8 +43198,8 @@ tbl = {
 		identifiedDisplayName = "High Wizard Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Increases variable casting time by 100%, and reduces SP Recovery by 100%,",
-			"but the wearer's attacks will ignore the MDEF of Normal monsters.",
+			"Ignores MDEF of all non-boss, non-guardian monsters.",
+			"Increases variable casting time by 100% and reduces SP Recovery by 100%.",
 			"Drains 2,000 SP when the compounded headgear is unequipped.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Headgear^000000",
@@ -43221,13 +43236,13 @@ tbl = {
 		unidentifiedDisplayName = "Sniper Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Adds a 5% chance",
+			"Adds a 10% chance",
 			"of absorbing 20%",
 			"of the physical damage",
 			"inflicted on an enemy",
 			"by the wearer as HP,",
 			"but also reduces HP",
-			"Recovery by 100%.",
+			"Recovery by 10%.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -43235,13 +43250,13 @@ tbl = {
 		identifiedDisplayName = "Sniper Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Adds a 5% chance",
+			"Adds a 10% chance",
 			"of absorbing 20%",
 			"of the physical damage",
 			"inflicted on an enemy",
 			"by the wearer as HP,",
 			"but also reduces HP",
-			"Recovery by 100%.",
+			"Recovery by 10%.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -43254,8 +43269,8 @@ tbl = {
 		unidentifiedDisplayName = "Cecil Damon Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"ASPD +5%",
-			"HIT -30",
+			"ASPD+12%",
+			"HIT+30",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -43263,8 +43278,8 @@ tbl = {
 		identifiedDisplayName = "Cecil Damon Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"ASPD +5%",
-			"HIT -30",
+			"ASPD+12%",
+			"HIT+30",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -43475,8 +43490,8 @@ tbl = {
 		unidentifiedDisplayName = "Lady Tanee Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"MaxSP +50%",
-			"MaxHP -40%",
+			"MaxHP+40% and MaxSP+50%.",
+			"+1% ATK/MATK per 8 base VIT.",
 			"Adds a low chance of dropping ^008800Banana^000000 when defeating monsters.",
 			"Increases healing effect of ^008800Banana^000000 by 100%.",
 			"Class: ^777777Card^000000",
@@ -43486,8 +43501,8 @@ tbl = {
 		identifiedDisplayName = "Lady Tanee Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"MaxSP +50%",
-			"MaxHP -40%",
+			"MaxHP+40% and MaxSP+50%.",
+			"+1% ATK/MATK per 8 base VIT.",
 			"Adds a low chance of dropping ^008800Banana^000000 when defeating monsters.",
 			"Increases healing effect of ^008800Banana^000000 by 100%.",
 			"Class: ^777777Card^000000",
@@ -44090,10 +44105,8 @@ tbl = {
 		unidentifiedDisplayName = "Memory of Thanatos Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"DEF -30",
-			"Flee -30",
-			"Enchants compounded weapon with the ^008800Infiltration^000000 skill effect.",
-			"Each attack drains 1 SP.",
+			"DEF-30 and FLEE-30",
+			"Deals more damage depending on the target's defense.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -44101,10 +44114,8 @@ tbl = {
 		identifiedDisplayName = "Memory of Thanatos Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"DEF -30",
-			"Flee -30",
-			"Enchants compounded weapon with the ^008800Infiltration^000000 skill effect.",
-			"Each attack drains 1 SP.",
+			"DEF-30 and FLEE-30",
+			"Deals more damage depending on the target's defense.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -44856,7 +44867,7 @@ tbl = {
 		unidentifiedDisplayName = "Ifrit Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"ATK, CRI, HIT is increased depending on the wearer's job level.",
+			"Increase ATK, CRIT, and HIT every 5 Job Levels.",
 			"Has a low chance of autocast ^FF0000Earthquake^000000 when receives a physical attack.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Accessory^000000",
@@ -44865,7 +44876,7 @@ tbl = {
 		identifiedDisplayName = "Ifrit Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"ATK, CRI, HIT is increased depending on the wearer's job level.",
+			"Increase ATK, CRIT, and HIT every 5 Job Levels.",
 			"Has a low chance of autocast ^FF0000Earthquake^000000 when receives a physical attack.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Accessory^000000",
