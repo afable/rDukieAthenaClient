@@ -16640,6 +16640,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute diary in which the innermost thoughts of a young girl have been recorded, but you can never bear to open it.",
 			" ",
+			"^00aaffMATK+21%^000000, ^00ff00INT+2^000000, ^00ff00DEX+5^000000.",
 			"Capable of ^00aaffdamaging enemies up to 4 cells away^000000 (books normally have 3 range).",
 			"Each refine gives ^00aaffASPD+2^000000.",
 			"Each refine reduces the",
