@@ -1,0 +1,51 @@
+// description and explanation of the data.grf file structure
+
+// when updating headgear, changes need to be made to the following
+// ** NOTE **: you can basically look at the collection name of the sprite you want and search for it in GRF Editor since that will probably be the name you use to link the item sprite to the item in itemInfoClassic.lub
+
+/data
+|----/data/sprite/¾Ç¼¼»ç¸®/³² (male headgear sprites)
+|----/data/sprite/¾Ç¼¼»ç¸®/¿© (female headgear sprites)
+|----/data/texture/À¯ÀúÀÎÅÍÆäÀÌ½º/collection (item's more info graphic)
+|----/data/texture/À¯ÀúÀÎÅÍÆäÀÌ½º/item (item's drop graphic)
+
+
+
+// when updating battle weapon sprites, refer to the following folders
+// The weapon needs to be added into the correct job's weapon sprite folder.
+// Navigate to: /data/sprite/ÀÎ°£Á·
+// Use the following for reference:
+
+/ÀÎ°£Á· Main folder
+|----/´ÑÀÚ Ninja weapons
+|----/¸¶¹ý»ç Magician weapons
+|----/¸ùÅ© Monk weapons
+|----/¿¬±ý¼Ú»ç Alchemist weapons
+|----/¿ëº´ Mercenary weapons
+|----/¿Î¿µÀÚ GM weapons
+|----/±¸ÆääÚÅ©·ç¼¼ÀÌ´õ Peco Crusader (baby version I think)
+|----/±â»ç Knight weapons
+|----/±Ã¼ö Archer weapons
+|----/»óÀÎ Merchant weapons
+|----/°ç³Ê Gunslinger weapons
+|----/°ë»ç Swordsman weapons
+|----/µµµÏ Thief weapons
+|----/·Î±× Rogue weapons
+|----/¼¼ÀÌÁö Sage weapons
+|----/¼ºÁ÷ÀÚ Acolyte weapons
+|----/½´ÆÛ³ëºÑ½º Super Novice Weapons
+|----/½ÅÆääÚÅ©·ç¼¼ÀÌ´õ Crusader weapons (mounted)
+|----/¾Î¼¼½Å Assassin weapons
+|----/¹«ÈÑ Dancer weapons
+|----/¹ùµÅ Bard weapons
+|----/Á¦Ã¶°ø Blacksmith weapons
+|----/À§ÀÚµÅ Wizard weapons
+|----/Å©·ç¼¼ÀÌ´õ Crusader weapons
+|----/Åâ±ç¼Ò³â TaeKwon weapons
+|----/ÆääÚÆääÚ_±â»ç Knight weapons (mounted)
+|----/ÃÊº¸ÀÚ Novice weapons
+|----/çÁ¸®½ºÆ® Priest weapons
+'----/çÅÅÍ Hunter weapons
+
+
+
