@@ -4,6 +4,7 @@
 	// base stat: #00ff00
 	// secondary stat: #00aaff
 	// skill: #ffaa33
+	// classes: #00ccaa
 	// set items: #ccaaff
 
 // negative stats:
