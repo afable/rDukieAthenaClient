@@ -1,5 +1,6 @@
 change log:
 
-- no camera angles (less)
+- 3. no camera angles (less)
+- 4. chat flood allow
 
 
