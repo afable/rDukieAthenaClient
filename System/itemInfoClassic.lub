@@ -23712,13 +23712,16 @@ tbl = {
 		identifiedResourceName = "외눈안경",
 		identifiedDescriptionName = {
 			"An aristrocratically stylish lense that is worn for only one eye.",
+			"If equipped with a Pocket Watch, ",
+			"HP and SP recovery speed increased by 15%, ",
+			"Matk +7%.",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777770^000000",
 			"Location: ^777777Middle^000000",
 			"Weight: ^77777710^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 23
 	},
 	[2240] = {
@@ -31581,7 +31584,7 @@ tbl = {
 		identifiedResourceName = "회중시계_",
 		identifiedDescriptionName = {
 			"A silver-colored watch with connecting chain.",
-			"If equipped with a Monocle and Memory Book, ",
+			"If equipped with a Monocle, ",
 			"HP and SP recovery speed increased by 15%, ",
 			"Matk +7%.",
 			"If equipped with Librarian Glove,",
