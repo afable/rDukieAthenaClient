@@ -83958,14 +83958,14 @@ tbl = {
 	},
 	[12395] = {
 		unidentifiedDisplayName = "Tantan Noodle",
-		unidentifiedResourceName = "아까라제",
+		unidentifiedResourceName = "라면모자",
 		unidentifiedDescriptionName = {
 			"A bowl of Tantan Noodles that Green Maidens find hard to resist.",
 			"Class: ^777777Taming Item^000000",
 			"Weight: ^7777775^000000",
 		},
 		identifiedDisplayName = "Tantan Noodle",
-		identifiedResourceName = "아까라제",
+		identifiedResourceName = "라면모자",
 		identifiedDescriptionName = {
 			"A bowl of Tantan Noodles that Green Maidens find hard to resist.",
 			"Class: ^777777Taming Item^000000",
