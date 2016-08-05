@@ -1,9 +1,8 @@
 // colour scheme definitions for itemInfoClassic.lub
 
 // positive stats:
-	// base stat: #00ff00
-	// secondary stat: #00aaff
-	// skill: #ffaa33
+	// positive stats: #00aaff
+	// skill: #ff8800
 	// classes: #00ccaa
 	// set items: #ccaaff
 
