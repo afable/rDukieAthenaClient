@@ -50674,7 +50674,7 @@ tbl = {
 			"Required Level: ^77777710^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 264
 	},
 	[5211] = {
