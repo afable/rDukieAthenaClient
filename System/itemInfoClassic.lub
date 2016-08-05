@@ -31866,7 +31866,7 @@ tbl = {
 		identifiedResourceName = "ƒ¡∆º≥Ÿ≈ª∞°µÂ¿Œ¿Â",
 		identifiedDescriptionName = {
 			"A royal gift to a member of the Continental Guard.",
-			"MaxHP +50, when equipped, attack speed increases(delay after attacking reduces by 3%)",
+			"MaxHP+500, when equipped, attack speed increases(delay after attacking reduces by 3%)",
 			"Class: ^777777Accessory^000000",
 			"Defense: ^7777770^000000",
 			"Weight: ^7777775^000000",
