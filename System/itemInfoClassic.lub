@@ -13536,7 +13536,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Transcendent Swordman and Merchant^000000"
 		},
-		slotCount = 1,
+		slotCount = 4,
 		ClassNum = 7
 	},
 	[1377] = {
