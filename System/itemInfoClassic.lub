@@ -28562,7 +28562,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2517] = {
@@ -28664,7 +28664,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2520] = {
@@ -30381,7 +30381,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2652] = {
