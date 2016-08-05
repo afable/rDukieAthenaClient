@@ -49227,7 +49227,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 257
 	},
 	[5128] = {
