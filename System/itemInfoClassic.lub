@@ -31568,7 +31568,8 @@ tbl = {
 			"Defense: ^7777770^000000",
 			"Weight: ^77777710^000000",
 			"Required Level: ^77777780^000000",
-			"Jobs: ^777777Wizard, Sage, Soul Linker^000000",
+			"Jobs: ^777777Every Job",
+			"except Novice^000000",
 		},
 		slotCount = 1,
 		ClassNum = 0
@@ -31592,7 +31593,8 @@ tbl = {
 			"Defense: ^7777770^000000",
 			"Weight: ^77777720^000000",
 			"Required Level: ^77777780^000000",
-			"Jobs: ^777777Mage Jobs/Soul Linker^000000",
+			"Jobs: ^777777Every Job",
+			"except Novice^000000",
 		},
 		slotCount = 1,
 		ClassNum = 0
