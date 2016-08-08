@@ -9396,7 +9396,7 @@ tbl = {
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Swordman, Merchant, and Thief Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 2
 	},
 	[1131] = {
@@ -9422,7 +9422,7 @@ tbl = {
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Swordman, Merchant, and Thief Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 2
 	},
 	[1132] = {
@@ -9466,7 +9466,7 @@ tbl = {
 			"Required Level: ^77777740^000000",
 			"Jobs: ^777777Swordman, Merchant, and Thief Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 2
 	},
 	[1134] = {
@@ -12836,11 +12836,11 @@ tbl = {
 			"Class: ^777777One-Handed Axe^000000",
 			"Attack : ^777777140^000000",
 			"Weight: ^777777150^000000",
-			"Weapon Level:^7777773^000000",
+			"Weapon Level:^7777774^000000",
 			"Required Level: ^77777750^000000",
 			"Job : ^777777Transcendent Swordman/Merchant Classes^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 6
 	},
 	[1312] = {
@@ -91822,7 +91822,7 @@ tbl = {
 			"Swordman, Merchant,",
 			"and Thief Classes^000000",
 		},
-		slotCount = 1,
+		slotCount = 4,
 		ClassNum = 2
 	},
 	[13405] = {
@@ -91845,7 +91845,7 @@ tbl = {
 			"Swordman, Merchant,",
 			"and Thief Classes^000000",
 		},
-		slotCount = 2,
+		slotCount = 4,
 		ClassNum = 2
 	},
 	[13406] = {
@@ -92091,11 +92091,11 @@ tbl = {
 			"Class: ^777777One Handed Sword^000000",
 			"Attack : ^777777105^000000",
 			"Weight: ^777777120^000000",
-			"Weapon Level: ^7777773^000000",
+			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Transcendent Swordman / Merchant / Thief Class^000000",
 		},
-		slotCount = 3,
+		slotCount = 4,
 		ClassNum = 2
 	},
 	[13415] = {
