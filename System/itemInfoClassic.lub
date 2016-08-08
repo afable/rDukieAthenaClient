@@ -11200,7 +11200,7 @@ tbl = {
 			"Required Level: ^77777724^000000",
 			"Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[1224] = {
@@ -11329,7 +11329,7 @@ tbl = {
 			"Required Level: ^77777736^000000",
 			"Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[1230] = {
@@ -11349,7 +11349,7 @@ tbl = {
 			"Required Level: ^77777736^000000",
 			"Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[1231] = {
@@ -11372,7 +11372,7 @@ tbl = {
 			"Required Level: ^77777736^000000",
 			"Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[1232] = {
@@ -11441,7 +11441,7 @@ tbl = {
 			"Required Level: ^77777736^000000",
 			"Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[1235] = {
@@ -11571,7 +11571,7 @@ tbl = {
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 36
 	},
 	[1241] = {
@@ -11611,9 +11611,9 @@ tbl = {
 			"Weight: ^77777755^000000",
 			"Weapon Level: ^7777774^000000",
 			"Required Level: ^77777755^000000",
-			"Jobs: ^777777Mage and Soul Linker^000000",
+			"Jobs: ^777777Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[1243] = {
@@ -88530,7 +88530,7 @@ tbl = {
 			"Required Level: ^77777736^000000",
 			"Jobs: ^777777Assassin^000000",
 		},
-		slotCount = 1,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[13034] = {
@@ -88681,7 +88681,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Stalker^000000",
 		},
-		slotCount = 3,
+		slotCount = 4,
 		ClassNum = 1
 	},
 	[13039] = {
