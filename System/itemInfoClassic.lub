@@ -18675,7 +18675,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A bow imbued with the sacred essense of Rudra, one of the ancient gods.",
 			"Adds 50% tolerance to the Poison, Curse, Silence, Chaos and Blind statuses.",
-			"Enables the use of ^008800Level 1 Heal^000000 and ^008800Level 1 Cure^000000.",
+			"Enables the use of ^008800Level 10 Heal^000000 and ^008800Level 1 Cure^000000.",
 			"INT +5",
 			"Class: ^777777Bow^000000",
 			"Attack: ^777777150^000000",
