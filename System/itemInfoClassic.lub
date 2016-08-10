@@ -24545,14 +24545,17 @@ tbl = {
 		identifiedDescriptionName = {
 			"A rustic hat knit from rough reeds and bamboos that shields against the rain and the glare of the sun.",
 			"Saurabi, the ancient Korean warrior, was known to wear one of these.",
-			"AGI +1",
+			" ",
+			"Each refine gives ^00aaffSTR + 2^000000, ^00aaffAGI + 4^000000, ^00aaffDEX + 2^000000, and ^00aaffMDEF + 1^000000.",
+			"Each refine adds ^00aaffASPD + 1%^000000.",
+			" ",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777773^000000",
 			"Location: ^777777Upper^000000",
 			"Weight: ^77777730^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 67
 	},
 	[2281] = {
@@ -47698,7 +47701,10 @@ tbl = {
 		identifiedResourceName = "¹ÐÂ¤¸ðÀÚ",
 		identifiedDescriptionName = {
 			"A hat knitted together with straw.",
-			"AGI +1",
+			" ",
+			"Each refine gives ^00aaffSTR + 2^000000, ^00aaffDEX + 2^000000, ^00aaffAGI + 2^000000, ^00aaffLUK + 2^000000, and ^00aaffMDEF + 1^000000.",
+			"Each refine adds ^00aaffASPD + 1%^000000.",
+			" ",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777773^000000",
 			"Location: ^777777Upper^000000",
@@ -47706,7 +47712,7 @@ tbl = {
 			"Required Level: ^77777750^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 146
 	},
 	[5063] = {
@@ -47805,7 +47811,10 @@ tbl = {
 		identifiedResourceName = "¼Øºê·¹·Î",
 		identifiedDescriptionName = {
 			"A traditional Mexican hat with a wide, round brim.",
-			"AGI +1",
+			" ",
+			"Each refine gives ^00aaffDEX + 2^000000, ^00aaffAGI + 2^000000, ^00aaffLUK + 4^000000, and ^00aaffMDEF + 1^000000.",
+			"Each refine adds ^00aaffASPD + 1%^000000.",
+			" ",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777774^000000",
 			"Location: ^777777Upper^000000",
@@ -47814,7 +47823,7 @@ tbl = {
 			"Jobs: ^777777Every Job",
 			"except Novice^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 151
 	},
 	[5068] = {
@@ -47983,9 +47992,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cowboy hat. It makes men look manlier, and is cute when worn by women.",
 			" ",
-			"Each refine gives",
-			"^00aaffDEX + 2^000000, ^00aaffAGI+ 2^000000, ^00aaffLUK +2^000000,",
-			"and ^00aaffMDEF + 1^000000.",
+			"Each refine gives ^00aaffDEX + 2^000000, ^00aaffAGI + 2^000000, ^00aaffLUK + 2^000000, and ^00aaffMDEF + 1^000000.",
 			"Each refine adds ^00aaffASPD + 1%^000000.",
 			" ",
 			"Class: ^777777Headgear^000000",
@@ -47995,7 +48002,7 @@ tbl = {
 			"Required Level: ^777777NA^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 159
 	},
 	[5076] = {
@@ -56444,7 +56451,10 @@ tbl = {
 			"^FF0000Concept created during the Summer 2008 Create a headgear Contest.",
 			"Created by Creciableu^000000",
 			"^FFFFFF_^000000",
-			"AGI +2",
+			" ",
+			"Each refine gives ^00aaffSTR + 2^000000, ^00aaffAGI + 4^000000, and ^00aaffDEX + 2^000000.",
+			"Each refine adds ^00aaffCRIT + 1^000000, ^00aaffPerfect Dodge + 1^000000, ^00aaffASPD + 1%^000000.",
+			" ",
 			"Class :^777777Headgear^000000",
 			"Defense: ^777777 2^000000",
 			"Location :^777777 Upper & Middle^000000",
