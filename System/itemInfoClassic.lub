@@ -47982,6 +47982,12 @@ tbl = {
 		identifiedResourceName = "카우보이모자",
 		identifiedDescriptionName = {
 			"A cowboy hat. It makes men look manlier, and is cute when worn by women.",
+			" ",
+			"Each refine gives",
+			"^00aaffDEX + 2^000000, ^00aaffAGI+ 2^000000, ^00aaffLUK +2^000000,",
+			"and ^00aaffMDEF + 1^000000.",
+			"Each refine adds ^00aaffASPD + 1%^000000.",
+			" ",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777774^000000",
 			"Location: ^777777Upper^000000",
