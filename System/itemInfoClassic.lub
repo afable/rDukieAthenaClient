@@ -26045,7 +26045,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2355] = {
@@ -27335,7 +27335,7 @@ tbl = {
 			"Required Level: ^77777730^000000",
 			"Jobs: ^777777Swordman^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2414] = {
@@ -27498,7 +27498,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2420] = {
@@ -27624,7 +27624,7 @@ tbl = {
 			"Jobs: ^777777All Transcendent",
 			"Jobs except Novice^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2424] = {
@@ -28154,7 +28154,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000."
 		},
-		identifiedDisplayName = "Fast shoes",
+		identifiedDisplayName = "Air Boss",
 		identifiedResourceName = "발키리의슈즈",
 		identifiedDescriptionName = {
 			"These are special shoes made by a craftsman of a place famous for its beaches and festivities.",
@@ -28168,7 +28168,7 @@ tbl = {
 			"Weight: ^77777750^000000",
 			"Jobs: ^777777All^000000"
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2449] = {
@@ -28216,7 +28216,7 @@ tbl = {
 			"Required Level: ^77777760^000000",
 			"Job : ^777777All Transcendent Job Classes except Novice Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2501] = {
@@ -28703,7 +28703,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2521] = {
@@ -32146,7 +32146,7 @@ tbl = {
 			"Weight: ^77777710^000000",
 			"Jobs: ^7777772nd Transcendent Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2745] = {
@@ -49282,7 +49282,7 @@ tbl = {
 			"Jobs: ^777777All except",
 			"Novice Class^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 258
 	},
 	[5129] = {
