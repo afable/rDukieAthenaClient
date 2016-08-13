@@ -54062,15 +54062,21 @@ tbl = {
 		unidentifiedDisplayName = "Angel Spirit",
 		unidentifiedResourceName = "천사의유령",
 		unidentifiedDescriptionName = {
-			"placeholder",
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Angel Spirit",
 		identifiedResourceName = "천사의유령",
 		identifiedDescriptionName = {
-			"placeholder",
+			"A golden mask rumored to be worn by some ancient Goddess.",
+			"HIT +15, STR +2.",
+			"Class: ^777777Headgear^000000",
 			"Defense: ^7777770^000000",
+			"Location: ^777777Middle^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777730^000000",
+			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 394
 	},
 	[5390] = {
