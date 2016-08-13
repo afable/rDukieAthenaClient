@@ -54979,7 +54979,7 @@ tbl = {
 		identifiedResourceName = "무지개스카프",
 		identifiedDescriptionName = {
 			"A scarf that displays some kind of pride.",
-			"INT +1, MDEF +2, MATK +1%."
+			"INT +1, MDEF +2, MATK +1%.",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777771^000000",
 			"Location: ^777777Lower^000000",
@@ -58710,7 +58710,7 @@ tbl = {
 		identifiedResourceName = "사무라이마스크",
 		identifiedDescriptionName = {
 			"A masked passed down from ancient Japanese Warriors.",
-			"Critical +1, MDEF +1."
+			"Critical +1, MDEF +1.",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777771^000000",
 			"Location: ^777777Lower^000000",
