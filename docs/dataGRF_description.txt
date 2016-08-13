@@ -1,7 +1,9 @@
-// description and explanation of the data.grf file structure
+// Description and explanation of the data.grf file structure
 
-// when updating headgear, changes need to be made to the following
-// ** NOTE **: you can basically look at the collection name of the sprite you want and search for it in GRF Editor since that will probably be the name you use to link the item sprite to the item in itemInfoClassic.lub
+// ** NOTE **: You can basically look at the collection name of the sprite you want and search for it in GRF Editor since that will probably be the name you use to link the item sprite to the item in itemInfoClassic.lub.
+// ** NOTE2 **: Another good way of finding the correct kro sprite name is to look for the viewid if it exists in item_db.txt... otherwise, you can try and guess the sprite name and look for it in accname.lub or accessoryid.lub (if you have the viewid).
+
+// When updating headgear, changes need to be made to the following folder locations:
 
 /data
 |----/data/sprite/¾Ç¼¼»ç¸®/³² (male headgear sprites)
