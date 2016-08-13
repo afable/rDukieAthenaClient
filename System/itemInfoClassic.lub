@@ -58799,6 +58799,27 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 0
 	},
+	[5786] = {
+		unidentifiedDisplayName = "Ears",
+		unidentifiedResourceName = "°í´ë¿äÁ¤ÀÇ±Í",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Ancient Elven Ear",
+		identifiedResourceName = "°í´ë¿äÁ¤ÀÇ±Í",
+		identifiedDescriptionName = {
+			"Ears that have a slightly ancient elven feel to them.",
+			"LUK +1.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777771^000000",
+			"Location: ^777777Middle^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^77777770^000000",
+			"Jobs: ^777777All^000000",
+		},
+		slotCount = 1,
+		ClassNum = 665
+	},
 	[5789] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "Ä¸",
