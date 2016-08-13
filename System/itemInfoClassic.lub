@@ -54283,7 +54283,7 @@ tbl = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
 		identifiedDisplayName = "Mischievous Fairy",
-		identifiedResourceName = "장난꾸러기요정",
+		identifiedResourceName = "요정의귀",
 		identifiedDescriptionName = {
 			"Naughty fairies have slightly pointier ears than elves do.",
 			"Perfect Dodge + 3",
@@ -54294,7 +54294,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 405
 	},
 	[5403] = {
