@@ -33067,19 +33067,19 @@ tbl = {
 		unidentifiedDisplayName = "Poring Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"LUK +2",
-			"Perfect Dodge +1",
+			"LUK +6",
+			"Perfect Dodge +3",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
+			"Compound on: ^777777Footgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Poring Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"LUK +2",
-			"Perfect Dodge +1",
+			"LUK +6",
+			"Perfect Dodge +3",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Armor^000000",
+			"Compound on: ^777777Footgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -33178,21 +33178,21 @@ tbl = {
 		unidentifiedDisplayName = "Lunatic Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"LUK +1",
-			"Critical rate +1",
-			"Perfect Dodge +1",
+			"LUK +3",
+			"Critical rate +3",
+			"Perfect Dodge +3",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
+			"Compound on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Lunatic Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"LUK +1",
-			"Critical rate +1",
-			"Perfect Dodge +1",
+			"LUK +3",
+			"Critical rate +3",
+			"Perfect Dodge +3",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
+			"Compound on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -37723,7 +37723,7 @@ tbl = {
 		unidentifiedDisplayName = "Mastering Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"LUK +1",
+			"LUK +11",
 			"Add Flee +18 if the user is equipped with an item compunded to the Poring card.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Garment^000000",
@@ -47455,7 +47455,7 @@ tbl = {
 			"Weight: ^77777710^000000",
 			"Jobs: ^777777...^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 135
 	},
 	[5052] = {
@@ -54969,6 +54969,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 456
 	},
+	[5463] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Rainbow Scarf",
+		identifiedResourceName = "무지개스카프",
+		identifiedDescriptionName = {
+			"A scarf that displays some kind of pride.",
+			"INT +1, MDEF +2, MATK +1%."
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777771^000000",
+			"Location: ^777777Lower^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^77777790^000000",
+			"Job : ^777777All^000000",
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
 	[5465] = {
 		unidentifiedDisplayName = "Hat",
 		unidentifiedResourceName = "캡",
@@ -56102,7 +56123,7 @@ tbl = {
 			"Required Level: ^77777750^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 534
 	},
 	[5549] = {
@@ -58688,10 +58709,16 @@ tbl = {
 		identifiedDisplayName = "Samurai Mask",
 		identifiedResourceName = "사무라이마스크",
 		identifiedDescriptionName = {
-			"placeholder",
-			"Defense: ^7777770^000000",
+			"A masked passed down from ancient Japanese Warriors.",
+			"Critical +1, MDEF +1."
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777771^000000",
+			"Location: ^777777Lower^000000",
+			"Weight: ^77777730^000000",
+			"Required Level: ^77777750^000000",
+			"Job : ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[5768] = {
