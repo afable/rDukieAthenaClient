@@ -48593,7 +48593,7 @@ tbl = {
 			"Weight: ^77777710^000000",
 			"Jobs: ^777777Every Job except Novice^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 187
 	},
 	[5105] = {
