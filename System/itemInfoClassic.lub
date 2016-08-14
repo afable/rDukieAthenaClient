@@ -116504,7 +116504,7 @@ tbl = {
 		identifiedResourceName = "ÇÞ",
 		identifiedDescriptionName = {
 			"Very warm aura surrounds your head as if you're wearing a hat but not.",
-			"AGI +8, MDEF +7."
+			"AGI +8, MDEF +7.",
 			"Each refine gives an additional AGI +8, MDEF +1.",
 			"Class: ^777777Headgear^000000",
 			"Defense: ^7777777^000000",
