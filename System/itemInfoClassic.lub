@@ -33144,7 +33144,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"DEX +5",
-			"HIT +3",
+			"HIT +1",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
