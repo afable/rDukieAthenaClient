@@ -116491,6 +116491,70 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 410
 	},
+	[26000] = {
+		unidentifiedDisplayName = "Hat",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+			"Class: ^777777Headgear^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777771^000000",
+		},
+		identifiedDisplayName = "Invisible Hat",
+		identifiedResourceName = "햇",
+		identifiedDescriptionName = {
+			"Very warm aura surrounds your head as if you're wearing a hat but not.",
+			"AGI +8, MDEF +7."
+			"Each refine gives an additional AGI +8, MDEF +1.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777777^000000",
+			"Location: ^777777Upper^000000",
+			"Weight: ^7777771^000000",
+			"Jobs: ^777777All^000000",
+		},
+		slotCount = 1,
+		ClassNum = 16
+	},
+	[26001] = {
+		unidentifiedDisplayName = "Glasses",
+		unidentifiedResourceName = "글래스",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Invisible Glasses",
+		identifiedResourceName = "글래스",
+		identifiedDescriptionName = {
+			"Very warm aura surrounds your eyes as if wearing prescription glasses to compensate for defects in vision.",
+			"AGI +1, LUK +1.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777772^000000",
+			"Location: ^777777Middle^000000",
+			"Weight: ^7777771^000000",
+			"Jobs: ^777777All^000000",
+		},
+		slotCount = 1,
+		ClassNum = 3
+	},
+	[26002] = {
+		unidentifiedDisplayName = "Mouth Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Invisible Mask",
+		identifiedResourceName = "마스크",
+		identifiedDescriptionName = {
+			"Very warm aura surrounds your mouth that feels like it will prevent spreading sickness to others.",
+			"STR +1, DEX +1.",
+			"Class: ^777777Headgear^000000",
+			"Defense: ^7777771^000000",
+			"Location: ^777777Lower^000000",
+			"Weight: ^7777771^000000",
+			"Jobs: ^777777All^000000",
+		},
+		slotCount = 1,
+		ClassNum = 8
+	},
 }
 
 
