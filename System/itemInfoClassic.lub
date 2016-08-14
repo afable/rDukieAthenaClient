@@ -35927,7 +35927,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Nullify all magic attack, including supportive skills, that target character at the cost of doubling SP Consumption cost when using skills.",
 			"Class: ^777777Card^000000",
-			"Compound on: ^777777Shield^000000",
+			"Compound on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Golden Thiefbug Card",
@@ -41938,6 +41938,7 @@ tbl = {
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"Has 50% chance of Freezing an enemy when the user receives Physical Damage.",
+			"DEF +10.",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
