@@ -24779,7 +24779,7 @@ tbl = {
 			"Jobs: ^777777Every Job",
 			"except Novice^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 78
 	},
 	[2292] = {
@@ -32186,16 +32186,16 @@ tbl = {
 		identifiedResourceName = "ºí·¢Ä¹",
 		identifiedDescriptionName = {
 			"A pendant which symbolizes a well-known Rogue Guild among people in dark side.",
-			"DEX +3",
+			"AGI +3, LUK +6, Perfect Dodge +9.",
 			"When equipped with Ring of Rogue, inflicts additional damage to large sized monsters by 8% and Variable Casting Speed -3%.",
 			"HIT +3, reduction in Variable Casting speed by 3%",
 			"Class: ^777777Accessory^000000",
 			"Defense: ^7777771^000000",
 			"Weight: ^77777710^000000",
 			"Required Level: ^77777780^000000",
-			"Jobs: ^777777Stalker^000000",
+			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2748] = {
@@ -48952,7 +48952,7 @@ tbl = {
 			"Required Level: ^777777N/A^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 199
 	},
 	[5119] = {
