@@ -27953,14 +27953,14 @@ tbl = {
 			"^FF0000Cannot be traded^000000",
 			"A shoes that imitated the form from kitty's paws. It gives you a feeling that you can move as swiftly as cats.",
 			"Enable use of Level 1 Cat cry.",
-			"Flee +5, DEX +1.",
+			"Flee +15, AGI +6, LUK +3.",
 			"Class: ^777777Footgear^000000",
 			"Defense: ^7777770^000000",
 			"Weight: ^77777730^000000",
 			"Required Level: ^7777771^000000",
 			"Jobs: ^777777All^000000"
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2439] = {
