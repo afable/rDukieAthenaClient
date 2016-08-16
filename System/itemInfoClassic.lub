@@ -31649,7 +31649,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
-		identifiedDisplayName = "Medal of Honor",
+		identifiedDisplayName = "Medal of Swordman",
 		identifiedResourceName = "»∆¿Â_∞ÀªÁ",
 		identifiedDescriptionName = {
 			"A medal rewarded to honorable warriors.",
@@ -31663,7 +31663,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Swordman / Taekwon Master^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2721] = {
@@ -31672,7 +31672,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
-		identifiedDisplayName = "Medal of Honor",
+		identifiedDisplayName = "Medal of Thief",
 		identifiedResourceName = "»∆¿Â_µµµœ",
 		identifiedDescriptionName = {
 			"A medal rewarded to honorable warriors.",
@@ -31686,7 +31686,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Thief Classes and Ninja^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2722] = {
@@ -31695,7 +31695,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
-		identifiedDisplayName = "Medal of Honor",
+		identifiedDisplayName = "Medal of Acolyte",
 		identifiedResourceName = "»∆¿Â_∫πªÁ",
 		identifiedDescriptionName = {
 			"A medal rewarded to honorable warriors.",
@@ -31708,7 +31708,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Acolyte Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2723] = {
@@ -31717,7 +31717,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
-		identifiedDisplayName = "Medal of Honor",
+		identifiedDisplayName = "Medal of Mage",
 		identifiedResourceName = "»∆¿Â_∏∂π˝ªÁ",
 		identifiedDescriptionName = {
 			"A medal rewarded to honorable warriors.",
@@ -31730,7 +31730,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Mage Classes/Soul Linker^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2724] = {
@@ -31739,7 +31739,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
-		identifiedDisplayName = "Medal of Honor",
+		identifiedDisplayName = "Medal of Archer",
 		identifiedResourceName = "»∆¿Â_±√ºˆ",
 		identifiedDescriptionName = {
 			"A medal rewarded to honorable warriors.",
@@ -31753,7 +31753,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Archer Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2725] = {
@@ -31762,7 +31762,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
 		},
-		identifiedDisplayName = "Medal of Honor",
+		identifiedDisplayName = "Medal of Merchant",
 		identifiedResourceName = "»∆¿Â_ªÛ¿Œ",
 		identifiedDescriptionName = {
 			"A medal rewarded to honorable warriors.",
@@ -31776,7 +31776,7 @@ tbl = {
 			"Required Level: ^77777770^000000",
 			"Jobs: ^777777Merchant Classes^000000",
 		},
-		slotCount = 0,
+		slotCount = 1,
 		ClassNum = 0
 	},
 	[2726] = {
