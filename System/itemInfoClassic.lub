@@ -30641,7 +30641,7 @@ tbl = {
 			"Class: ^777777Accessory^000000",
 			"Defense: ^7777771^000000",
 			"Weight: ^77777790^000000",
-			"Jobs:^FFFFFFEvery Job^000000",
+			"Jobs:^777777Every Job^000000",
 		},
 		slotCount = 1,
 		ClassNum = 0
