@@ -30627,6 +30627,25 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[2663] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "명중의건틀릿",
+		unidentifiedDescriptionName = {
+			"Unknown Item, can be identified by ^6A5ACDMagnifier^000000.",
+		},
+		identifiedDisplayName = "Gauntlet of Hit",
+		identifiedResourceName = "명중의건틀릿",
+		identifiedDescriptionName = {
+			"A glove made from a strange material. It allows you to hold your weapon with a firm grip, increasing the strength and accuracy of attacks.",
+			"HIT +25, STR +5.",
+			"Class: ^777777Accessory^000000",
+			"Defense: ^7777771^000000",
+			"Weight: ^77777790^000000",
+			"Jobs:^FFFFFFEvery Job^000000",
+		},
+		slotCount = 1,
+		ClassNum = 0
+	},
 	[2665] = {
 		unidentifiedDisplayName = "Accesory",
 		unidentifiedResourceName = "퇴마의반지",
