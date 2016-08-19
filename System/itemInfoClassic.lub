@@ -43127,7 +43127,7 @@ tbl = {
 		unidentifiedDisplayName = "Howard Alt-Eisen Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"ASPD -5%",
+			"ASPD +5%",
 			"HIT +30",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
@@ -43136,7 +43136,7 @@ tbl = {
 		identifiedDisplayName = "Howard Alt-Eisen Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"ASPD -5%",
+			"ASPD +5%",
 			"HIT +30",
 			"Class: ^777777Card^000000",
 			"Compound on: ^777777Weapon^000000",
