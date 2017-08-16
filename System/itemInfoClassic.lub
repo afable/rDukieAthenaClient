@@ -29942,7 +29942,7 @@ tbl = {
 			"Required Level: ^77777794^000000",
 			"Jobs: ^777777All^000000",
 		},
-		slotCount = 1,
+		slotCount = 0,
 		ClassNum = 0
 	},
 	[2631] = {
